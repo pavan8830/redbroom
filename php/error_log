@@ -1,0 +1,6 @@
+[27-Nov-2016 07:55:54 UTC] PHP Warning:  require(php/php-mailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/redbroom/public_html/php/contact-form.php on line 7
+[27-Nov-2016 07:55:54 UTC] PHP Warning:  require(php/php-mailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/redbroom/public_html/php/contact-form.php on line 7
+[27-Nov-2016 07:55:54 UTC] PHP Fatal error:  require(): Failed opening required 'php/php-mailer/class.phpmailer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/redbroom/public_html/php/contact-form.php on line 7
+[27-Nov-2016 07:55:58 UTC] PHP Warning:  require(php/php-mailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/redbroom/public_html/php/contact-form.php on line 7
+[27-Nov-2016 07:55:58 UTC] PHP Warning:  require(php/php-mailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/redbroom/public_html/php/contact-form.php on line 7
+[27-Nov-2016 07:55:58 UTC] PHP Fatal error:  require(): Failed opening required 'php/php-mailer/class.phpmailer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/redbroom/public_html/php/contact-form.php on line 7
